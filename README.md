@@ -8,7 +8,7 @@ Creating Software to manage an Pizza Company Orders
 ## Technologies
 
         1. React.
-        2. React Redux.
+        2. Redux.
         3. React Router.
         4. Tailwind CSS.
     
